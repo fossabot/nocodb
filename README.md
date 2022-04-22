@@ -162,6 +162,7 @@ Access Dashboard using : [http://localhost:8080/dashboard](http://localhost:8080
 # Screenshots
 
 ![2](https://user-images.githubusercontent.com/5435402/133759229-4275b934-873b-4a9b-9f23-96470fec9775.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fnocodb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fnocodb?ref=badge_shield)
 <br>
 
 ![1](https://user-images.githubusercontent.com/5435402/133759218-f8b0bffc-707f-451c-82f2-b5ba2573d6a6.png)
@@ -451,3 +452,7 @@ Our mission is to provide the most powerful no-code interface for databases whic
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fnocodb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fnocodb?ref=badge_large)
